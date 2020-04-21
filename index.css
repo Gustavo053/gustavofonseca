@@ -90,7 +90,12 @@ a:hover {
 		display: block;
 	}
 
+	.primary-col {
+		width: 100%;
+	}
+
 	.second-col {
+		width: 100%;
 		display: flex;
 	}
 
