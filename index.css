@@ -110,4 +110,8 @@ a:hover {
 	#email a {
 		font-size: 13px;
 	}
+
+	a {
+		color: #3da0d9;
+	}
 }
