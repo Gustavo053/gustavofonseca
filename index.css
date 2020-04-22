@@ -114,6 +114,10 @@ a:hover {
 		text-align: right;
 	}
 
+	.noticia {
+		margin-top: 2.5%;
+	}
+
 	#email a {
 		font-size: 13px;
 	}
