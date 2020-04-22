@@ -69,6 +69,10 @@ main h1 {
 }
 
 hr {
+	background-color: #3da0d9;
+	color: #3da0d9;
+	border-radius: 5px;
+	height: 0.7%;
 	margin-top: 2%;
 	margin-bottom: 5%;
 }
@@ -100,10 +104,12 @@ a:hover {
 	}
 
 	.primary {
+		width: 50%;
 		text-align: left;
 	}
 
 	.second {
+		width: 50%;
 		text-align: right;
 	}
 
